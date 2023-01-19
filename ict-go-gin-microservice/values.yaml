@@ -1,0 +1,3 @@
+global: {}
+ict-go-gin-microservice:
+  replicaCount: 1
