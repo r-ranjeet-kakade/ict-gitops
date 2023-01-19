@@ -1,0 +1,5 @@
+dependencies:
+  - name: ict-go-gin-microservice
+    version: 0.0.1
+    repository: >-
+      http://artifactory-artifactory.tools:8082/artifactory/generic-local/ict-go-gin-microservice
